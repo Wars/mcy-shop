@@ -91,7 +91,6 @@
     top: 0;
     left: 0;
     border-radius: 25px !important;
-    filter: blur(4px);
 }
 
 .item-background::before {
@@ -200,7 +199,6 @@
     top: 0;
     left: 0;
     border-radius: 25px !important;
-    filter: blur(4px);
 }
 
 .notice-background::before {
